@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuseppeambrosio97&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeambrosio97&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeambrosio97&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
 ---
 
