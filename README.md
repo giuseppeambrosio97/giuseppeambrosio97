@@ -31,7 +31,7 @@
 
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuseppeambrosio97&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeambrosio97&layout=compact&theme=github_dark&count_private=true&hide_border=true)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giuseppeambrosio97&theme=github_dark)
 ---
 
 ### 🌱 Connect With Me!  
