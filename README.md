@@ -29,9 +29,16 @@
 
 ### 📊 GitHub Stats
 
-![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuseppeambrosio97&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeambrosio97&layout=compact&theme=github_dark&count_private=true&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giuseppeambrosio97&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giuseppeambrosio97&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Giuseppe's GitHub Stats" width="45%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeambrosio97&layout=compact&theme=github_dark&count_private=true&hide_border=true" alt="Top Languages" width="30%" align="center" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giuseppeambrosio97&theme=github_dark" alt="Profile Details" width="45%" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giuseppeambrosio97&theme=github_dark&border_radius=6&short_numbers=true&hide_border=true" alt="GitHub Streak Stats" width="40%" align="center" />
+</p>
+
 ---
 
 ### 🌱 Connect With Me!  
